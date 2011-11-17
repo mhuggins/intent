@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+description: Makes public Intent.getExtra methods that are not available through Titanium core.
+author: Matt Huggins
+license: Specify your license
+copyright: Copyright (c) 2011 by Food on the Table
+
+
+# these should not be edited
+name: intent
+moduleid: com.foodonthetable.intent
+guid: ebb1965b-8ebb-4439-b4ae-7b2ce0102279
+platform: android
+minsdk: 1.7.0
